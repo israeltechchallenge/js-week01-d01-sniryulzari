@@ -1,5 +1,5 @@
 function printHelloWorld() {
-  //your code
+  consol.log("HelloWorld");
 }
 
 // Do not remove or change this line, or the tests won't work
